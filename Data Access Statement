@@ -1,0 +1,16 @@
+Data Access Statement
+
+- Ownership: The dataset is provided by the UCI Machine Learning Repository.
+- Licensing: The data is publicly available for research and educational purposes. Users are free to use and redistribute the data, provided that proper credit is given to the original source.
+
+Accessing the Data:
+- Visit the UCI Machine Learning Repository at Heart Disease Dataset.
+- Review the description and metadata associated with the dataset.
+- Agree to the terms of use specified by the UCI Machine Learning Repository.
+- Download the dataset in the desired format.
+
+Citation
+- When using the data, please cite the source as follows:
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+For any questions or further information regarding the dataset, please visit the UCI Machine Learning Repository's contact page.
